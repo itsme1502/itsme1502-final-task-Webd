@@ -1,0 +1,55 @@
+body{
+    background-color: #000000;
+    background-image: "https://image.shutterstock.com/image-photo/osaka-japan-august-10-2019-260nw-1656261391.jpg";
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border : red 10px ;
+}
+.head{
+    text-align: center;
+    font-family:'Harry Potter';
+    color: #d4af37;
+   
+    
+        
+    
+    
+}
+#id1{
+    font-family:'Harry Potter';
+    color: #d4af37;
+
+}
+a{
+    font-family:'Harry Potter' ;
+}
+.ab{
+    font-family:'Harry Potter';
+    color: #d4af37;
+}
+#id2{
+    font-family:'Harry Potter';
+    color: #d4af37;
+}
+.list{
+    font-family:'Harry Potter';
+    color: #d4af37;
+    text-align: center;
+    list-style-position: inside;
+}
+.list2{
+    font-family:'Harry Potter';
+    color: #d4af37;
+    text-align: center;
+    list-style-position: inside;
+}
+.lol{
+    font-family:'Harry Potter' ;
+}
+#id3{
+    font-family:'Harry Potter' ;
+}
+
